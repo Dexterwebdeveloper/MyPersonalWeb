@@ -107,12 +107,12 @@ header .user img{
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 1rem;
-    border: .5rem solid var(--brown) ;
+    border: .5rem solid var(--brown);
 }
 
 header .user .name{
     font-size: 3.5rem;
-    color: hsl(0, 0%, 100%);
+    color: var(--brown);
 }
 
 header .user .post{
