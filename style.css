@@ -112,7 +112,7 @@ header .user img{
 
 header .user .name{
     font-size: 3.5rem;
-    color: var(--brown);
+    color: hsl(0, 0%, 100%);
 }
 
 header .user .post{
@@ -182,7 +182,7 @@ header .navbar ul li a:active{
 }
 
 .home h1 span{
-    color: var(---brown);
+    color: var(--brown);
 }
 
 .home p{
